@@ -13,7 +13,7 @@ This is the official Github Repository for Submission of Mid Term-1, <b>CSE311L:
 
 ## Submission Instruction 📖
 
-**_For Part-1:_** 
+**_For Part-1: (Will be counted as Quiz 4)_** 
 * Write down the answer in a piece of paper and make a pdf using the *Camscanner* apps. 
 * Submit the pdf with this format - Your_Name_Id.pdf into the Part-1 Folder
 
